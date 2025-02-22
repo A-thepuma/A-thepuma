@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salut, moi c'est André<br>💻 Étudiant en BUT Informatique à Nevers<br>🏐 Passionné du volley et de développement<br>📝 À propos de moi :<br>🛠️ Je travaille actuellement sur : un projet universitaire de création de jeu en C# avec Unity<br>🤝 Je cherche à collaborer sur : des projets en développement web et mobile<br>💡 J’ai besoin d’aide pour : améliorer mes compétences en Unity et en développement mobile<br>🌱 J’apprends actuellement : C#, Unity, Javascript et Flutter
+👋 Salut, moi c'est André<br>💻 Étudiant en BUT Informatique à Nevers<br>🏐 Passionné du volley et de développement<br>📝 À propos de moi :<br>🛠️ Je travaille actuellement sur : un projet universitaire de création de jeu en C# avec Unity<br>🤝 Je cherche à collaborer sur : des projets en développement web et mobile<br>💡 J’ai besoin d’aide pour : améliorer mes compétences en Unity et en développement mobile<br>🌱 J’apprends actuellement : C#, C++, Unity, Javascript et Flutter
 
 
 ## 🌐 Socials:
