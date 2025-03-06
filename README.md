@@ -25,9 +25,9 @@
 
 ## 💡 Projets récents
 
-🔹 **Développement d’un jeu vidéo** : Projet universitaire utilisant **C# et Unity**
-🔹 **Création d’applications mobiles** : Expérimentation avec **Flutter & Dart**
-🔹 **Développement web** : Conception de sites et applications web interactives
+🔹 **Développement d’un jeu vidéo** : Projet universitaire utilisant **C# et Unity**<br>
+🔹 **Création d’applications mobiles** : Expérimentation avec **Flutter & Dart**<br>
+🔹 **Développement web** : Conception de sites et applications web interactives<br>
 
 ## 🤝 Collaboration & Objectifs
 
