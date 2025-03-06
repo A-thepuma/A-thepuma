@@ -1,19 +1,39 @@
 # 👨‍💻 André | Étudiant en Informatique
 
-## À propos de moi
+## 📌 À propos de moi
 
-Étudiant en BUT Informatique à Nevers, passionné par le développement logiciel et les technologies du web et du mobile. Je m'intéresse particulièrement à la programmation orientée objet, au développement de jeux vidéo et aux applications mobiles.
+Étudiant en **BUT Informatique** à Nevers, passionné par le développement logiciel et les technologies du web et du mobile. J’ai un fort intérêt pour la programmation orientée objet, la conception de jeux vidéo et le développement d’applications mobiles.
 
-🎯 **Compétences principales** :
-- Développement en **C++, C#, Python, JavaScript**
-- Création de jeux avec **Unity**
-- Développement web avec **HTML, CSS, JavaScript**
-- Développement mobile avec **Flutter & Dart**
-- Gestion de bases de données avec **MySQL**
+🔹 **Centres d’intérêt** :
+- Développement logiciel et architecture applicative
+- Conception de jeux vidéo avec **Unity**
+- Développement web et mobile
+- Gestion et optimisation de bases de données
 
-🚀 **Projets en cours** :
-- Développement d'un jeu en **C# avec Unity** dans un cadre universitaire
-- Amélioration continue de mes compétences en **développement mobile et Unity**
+## 🚀 Compétences techniques
+
+🔹 **Langages de programmation** :
+- C++, C#, Python, JavaScript, Dart
+
+🔹 **Développement web & mobile** :
+- HTML, CSS, JavaScript
+- Frameworks : Flutter, Unity
+- Bases de données : MySQL
+
+🔹 **Outils & Technologies** :
+- Git, GitHub
+- Adobe Photoshop (conception graphique)
+- Visual Studio Code, Visual Studio
+
+## 💡 Projets récents
+
+🔹 **Développement d’un jeu vidéo** : Projet universitaire utilisant **C# et Unity**
+🔹 **Création d’applications mobiles** : Expérimentation avec **Flutter & Dart**
+🔹 **Développement web** : Conception de sites et applications web interactives
+
+## 🤝 Collaboration & Objectifs
+
+Je suis toujours à la recherche de nouvelles opportunités pour apprendre et collaborer sur des projets liés au développement web et mobile. Mon objectif est d'améliorer mes compétences en **Unity et développement mobile** tout en contribuant à des projets innovants.
 
 📩 **Me contacter** :
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andretincopumacahua@gmail.com)
