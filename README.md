@@ -2,18 +2,16 @@
 
 ## 📌 À propos de moi
 
-Étudiant en **BUT Informatique** à Nevers, passionné par le développement logiciel et les technologies du web et du mobile. J’ai un fort intérêt pour la programmation orientée objet, la conception de jeux vidéo et le développement d’applications mobiles.
+Étudiant en **BUT Informatique** à Nevers, passionné par le développement logiciel et les technologies du web et du mobile. 
 
 🔹 **Centres d’intérêt** :
 - Développement logiciel et architecture applicative
-- Conception de jeux vidéo avec **Unity**
 - Développement web et mobile
-- Gestion et optimisation de bases de données
 
 ## 🚀 Compétences techniques
 
 🔹 **Langages de programmation** :
-- C++, C#, Python, JavaScript, Dart
+- C++, C#, JavaScript, Dart
 
 🔹 **Développement web & mobile** :
 - HTML, CSS, JavaScript
