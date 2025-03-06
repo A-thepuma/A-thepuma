@@ -36,6 +36,3 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et co
 📩 **Me contacter** :
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andretincopumacahua@gmail.com)
 
----
-
-![Profil Views](https://visitcount.itsvg.in/api?id=A-thepuma&icon=10&color=13)
