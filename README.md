@@ -4,12 +4,6 @@
 
 Étudiant en **BUT Informatique** à Nevers, passionné par le développement logiciel et les technologies du web et du mobile. 
 
-🔹 **Centres d’intérêt** :
-- Sport : Volley, Football
-- Musique : Piano et Trompette
-- Hardware : Curieux et débutant dans Arduino
-- Développement web et mobile
-
 ## 🚀 Compétences techniques
 
 🔹 **Langages de programmation** :
