@@ -1,34 +1,57 @@
-# 👨‍💻 André | Étudiant en Informatique
+# 👨‍💻 André | Étudiant en Informatique  
 
-## 📌 À propos de moi
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=100&section=header&text=André%20Tincopu%20Macahua&fontSize=28&fontColor=ffffff&fontAlign=50&animation=fadeIn)  
 
-Étudiant en **BUT Informatique** à Nevers, passionné par le développement logiciel et les technologies du web et du mobile. 
+## 🧑‍🎓 À propos  
+Étudiant en **BUT Informatique** à Nevers, passionné par le **développement web, mobile et logiciel**.  
+Je cherche à renforcer mes compétences techniques et à contribuer à des projets concrets, tout en me spécialisant progressivement dans le **développement mobile et l’intelligence artificielle**.  
 
-## 🚀 Compétences techniques
+---
 
-🔹 **Langages de programmation** :
-- C++, C#, JavaScript, Dart
+## 🛠️ Compétences  
 
-🔹 **Développement web & mobile** :
-- HTML, CSS, JavaScript
-- Frameworks : Flutter, Unity
-- Bases de données : MySQL
+**Langages de programmation**  
+- C++, C#, JavaScript, Dart  
 
-🔹 **Outils & Technologies** :
-- Git, GitHub
-- Adobe Photoshop (conception graphique)
-- Visual Studio Code, Visual Studio
+**Développement web & mobile**  
+- HTML, CSS, JavaScript  
+- Frameworks : Flutter, Unity  
+- Bases de données : MySQL  
 
-## 💡 Projets récents
+**Outils & technologies**  
+- Git, GitHub  
+- Visual Studio Code, Visual Studio  
+- Adobe Photoshop (design & conception graphique)  
 
-🔹 **Développement d’un jeu vidéo** : Projet universitaire utilisant **C# et Unity**<br>
-🔹 **Création d’applications mobiles** : Expérimentation avec **Flutter & Dart**<br>
-🔹 **Développement web** : Conception de sites et applications web interactives<br>
+---
 
-## 🤝 Collaboration & Objectifs
+## 📂 Projets récents  
 
-Je suis toujours à la recherche de nouvelles opportunités pour apprendre et collaborer sur des projets liés au développement web et mobile. Mon objectif est d'améliorer mes compétences en **Unity et développement mobile** tout en contribuant à des projets innovants.
+- ♟️ **Jeu d’échecs (Unity, C#)** – Développement en groupe dans le cadre universitaire  
+- 🔎 **Exploration algorithmique du TSP (C++)** – Implémentation de l’algorithme ACO (Ant Colony Optimization)  
+- 🍫 **Site web fictif pour une chocolaterie (HTML, CSS, JS, MySQL)** – Projet académique complet (front + back)  
+- 🚢 **Jeu de bataille navale (C++)** – Développement d’un jeu en mode console  
 
-📩 **Me contacter** :
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andretincopumacahua@gmail.com)
+---
 
+## 📊 Statistiques GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>  
+
+---
+
+## 🤝 Collaboration & Perspectives  
+
+- Approfondir mes compétences en **développement mobile et IA**  
+- Participer à des projets **collaboratifs et innovants**  
+- Construire des solutions **utiles et accessibles** alliant créativité et rigueur  
+
+---
+
+## 📬 Contact  
+
+📩 [Email](mailto:andretincopumacahua@gmail.com)  
+🌐 *(Portfolio en cours de réalisation)*  
