@@ -32,11 +32,16 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 
 ## 📂 Projets récents  
 
-- 🖥️ **Portfolio personnel (React, Tailwind, Framer Motion, Three.js, Vite)** – Développement d’un portfolio interactif pour présenter mes projets et compétences  
-- ♟️ **Jeu d’échecs (Unity, C#)** – Projet universitaire en groupe, développement de la logique du jeu  
-- 🔎 **Exploration algorithmique du TSP (C++)** – Implémentation de l’algorithme ACO (Ant Colony Optimization)  
-- 🍫 **Frontend d’un site web fictif pour une chocolaterie (HTML, CSS, JS)** – Projet académique frontend  
-- 🚢 **Jeu de bataille navale (C)** – Développement d’un jeu en mode console  
+- 👨‍💻 **Portfolio personnel (React, Tailwind, Framer Motion, Three.js, Vite)** – Site vitrine pour présenter mes projets et compétences. [Voir le repo](https://github.com/A-thepuma/mon-portfolio)  
+
+- ♟️ **Jeu d’échecs (Unity, C#)** – Contribution universitaire en groupe, développement de certaines fonctionnalités du jeu puis l'interface menu et introduction. [Voir le repo](https://github.com/nom-utilisateur/projet-echecs](https://github.com/yayexy/Chess))  
+
+- 🔎 **Exploration algorithmique du TSP (C++)** – Implémentation de l’algorithme ACO (Ant Colony Optimization) dans le cadre d’un projet académique. 
+
+- 🍫 **Frontend d’un site web fictif pour une chocolaterie (HTML, CSS, JS)** – Projet académique front-end, design et intégration du site. [Voir le repo](https://github.com/Th3Ph3nix3/-UB-SAE-Recueil-Besoin)  
+
+- 🚢 **Jeu de bataille navale (C)** – Développement d’un jeu en mode console dans le cadre universitaire. 
+
 
 ---
 
