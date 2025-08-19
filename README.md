@@ -11,11 +11,11 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 ## 🛠️ Compétences  
 
 **Langages de programmation**  
-- C, C++, C#, JavaScript, Dart  
+- C, C++, C#, JavaScript, Dart *(en apprentissage)* 
 
 **Développement web & mobile**  
 - HTML, CSS, JavaScript  
-- Frameworks & librairies : React *(en apprentissage)*, Tailwind CSS, Flutter, Unity  
+- Frameworks & librairies : React *(en apprentissage)*, Tailwind CSS *(en apprentissage)*, Flutter *(en apprentissage)*, Unity  
 - Bases de données : MySQL  
 
 **Systèmes & réseaux**  
@@ -32,10 +32,10 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 
 ## 📂 Projets récents  
 
-- ♟️ **Jeu d’échecs (Unity, C#)** – Développement en groupe dans le cadre universitaire  
+- ♟️ **Jeu d’échecs (Unity, C#)** – Développementd'un jeu d'échecs 
 - 🔎 **Exploration algorithmique du TSP (C++)** – Implémentation de l’algorithme ACO (Ant Colony Optimization)  
-- 🍫 **Site web fictif pour une chocolaterie (HTML, CSS, JS, MySQL)** – Projet académique complet (front + back)  
-- 🚢 **Jeu de bataille navale (C++)** – Développement d’un jeu en mode console  
+- 🍫 **Frontend d'un site web fictif pour une chocolaterie (HTML, CSS, JS)** – Projet académique frontend
+- 🚢 **Jeu de bataille navale (C)** – Développement d’un jeu en mode console  
 
 ---
 
