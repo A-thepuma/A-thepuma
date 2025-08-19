@@ -1,3 +1,5 @@
+# 👨‍💻 André | Étudiant en Informatique  
+
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=100&section=header&text=André%20Tinco%20Pumacahua&fontSize=28&fontColor=ffffff&fontAlign=50&animation=fadeIn)  
 
 ## 🧑‍🎓 À propos  
@@ -9,18 +11,22 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 ## 🛠️ Compétences  
 
 **Langages de programmation**  
-- C++, C#, C, JavaScript, Dart  
+- C, C++, C#, JavaScript, Dart  
 
 **Développement web & mobile**  
 - HTML, CSS, JavaScript  
-- Frameworks : Flutter, Unity  
+- Frameworks & librairies : React *(en apprentissage)*, Tailwind CSS, Flutter, Unity  
 - Bases de données : MySQL  
+
+**Systèmes & réseaux**  
+- Commandes Linux (Bash)  
+- Gestion des adresses IP, notions en réseaux  
 
 **Outils & technologies**  
 - Git, GitHub  
 - Visual Studio Code, Visual Studio  
-- Adobe Photoshop
-- Excel 
+- Adobe Photoshop  
+- Excel  
 
 ---
 
@@ -45,6 +51,7 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 ## 🤝 Collaboration & Perspectives  
 
 - Approfondir mes compétences en **développement mobile et IA**  
+- Développer mes connaissances en **réseaux et systèmes**  
 - Participer à des projets **collaboratifs et innovants**  
 - Construire des solutions **utiles et accessibles** alliant créativité et rigueur  
 
