@@ -1,6 +1,6 @@
 # 👨‍💻 André | Étudiant en Informatique  
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=100&section=header&text=André%20Tincopu%20Macahua&fontSize=28&fontColor=ffffff&fontAlign=50&animation=fadeIn)  
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=100&section=header&text=André%20Tinco%20Pumacahua&fontSize=28&fontColor=ffffff&fontAlign=50&animation=fadeIn)  
 
 ## 🧑‍🎓 À propos  
 Étudiant en **BUT Informatique** à Nevers, passionné par le **développement web, mobile et logiciel**.  
