@@ -1,5 +1,3 @@
-# 👨‍💻 André | Étudiant en Informatique  
-
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=100&section=header&text=André%20Tinco%20Pumacahua&fontSize=28&fontColor=ffffff&fontAlign=50&animation=fadeIn)  
 
 ## 🧑‍🎓 À propos  
@@ -11,7 +9,7 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 ## 🛠️ Compétences  
 
 **Langages de programmation**  
-- C++, C#, JavaScript, Dart  
+- C++, C#, C, JavaScript, Dart  
 
 **Développement web & mobile**  
 - HTML, CSS, JavaScript  
@@ -21,7 +19,8 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 **Outils & technologies**  
 - Git, GitHub  
 - Visual Studio Code, Visual Studio  
-- Adobe Photoshop (design & conception graphique)  
+- Adobe Photoshop
+- Excel 
 
 ---
 
@@ -37,8 +36,8 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 ## 📊 Statistiques GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=A-thepuma&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-thepuma&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>  
 
 ---
