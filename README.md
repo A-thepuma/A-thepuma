@@ -11,7 +11,7 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 ## 🛠️ Compétences  
 
 **Langages de programmation**  
-- C, C++, C#, JavaScript, Dart *(en apprentissage)* 
+- C, C++, C#, JavaScript, Dart *(en apprentissage)*  
 
 **Développement web & mobile**  
 - HTML, CSS, JavaScript  
@@ -32,9 +32,10 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 
 ## 📂 Projets récents  
 
-- ♟️ **Jeu d’échecs (Unity, C#)** – Développementd'un jeu d'échecs 
+- 🖥️ **Portfolio personnel (React, Tailwind, Framer Motion, Three.js, Vite)** – Développement d’un portfolio interactif pour présenter mes projets et compétences  
+- ♟️ **Jeu d’échecs (Unity, C#)** – Projet universitaire en groupe, développement de la logique du jeu  
 - 🔎 **Exploration algorithmique du TSP (C++)** – Implémentation de l’algorithme ACO (Ant Colony Optimization)  
-- 🍫 **Frontend d'un site web fictif pour une chocolaterie (HTML, CSS, JS)** – Projet académique frontend
+- 🍫 **Frontend d’un site web fictif pour une chocolaterie (HTML, CSS, JS)** – Projet académique frontend  
 - 🚢 **Jeu de bataille navale (C)** – Développement d’un jeu en mode console  
 
 ---
@@ -50,7 +51,7 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 
 ## 🤝 Collaboration & Perspectives  
 
-- Approfondir mes compétences en **développement mobile et IA**  
+- Approfondir mes compétences en **développement mobile, front-end et IA**  
 - Développer mes connaissances en **réseaux et systèmes**  
 - Participer à des projets **collaboratifs et innovants**  
 - Construire des solutions **utiles et accessibles** alliant créativité et rigueur  
@@ -60,4 +61,4 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 ## 📬 Contact  
 
 📩 [Email](mailto:andretincopumacahua@gmail.com)  
-🌐 *(Portfolio en cours de réalisation)*  
+🌐 [Portfolio en cours de réalisation](#)
