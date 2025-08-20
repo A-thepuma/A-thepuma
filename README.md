@@ -32,7 +32,7 @@ Je cherche à renforcer mes compétences techniques et à contribuer à des proj
 
 ## 📂 Projets récents  
 
-- 👨‍💻 **Portfolio personnel (React, Tailwind, Framer Motion, Three.js, Vite)** – Site vitrine pour présenter mes projets et compétences. [Voir le repo](https://github.com/A-thepuma/mon-portfolio)  
+- 👨‍💻 **Portfolio personnel (React, Tailwind, Framer Motion, Three.js, Vite)** – Site vitrine pour présenter mes projets et compétences. [Voir le portfolio]([https://github.com/A-thepuma/mon-portfolio](https://portfolio-andre-tinco-pumacahua.netlify.app/))  
 
 - ♟️ **Jeu d’échecs (Unity, C#)** – Contribution universitaire en groupe, développement de certaines fonctionnalités du jeu puis l'interface menu et introduction. [Voir le repo](https://github.com/yayexy/Chess)  
 
