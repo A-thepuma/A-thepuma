@@ -4,7 +4,7 @@
 
 ## 🧑‍🎓 À propos  
 Étudiant en **BUT Informatique** à Nevers, passionné par le **développement web, mobile et logiciel**.  
-Je cherche à renforcer mes compétences techniques et à contribuer à des projets concrets, tout en me spécialisant progressivement dans le **développement mobile et l’intelligence artificielle**.  
+Je cherche à renforcer mes compétences techniques et à contribuer à des projets concrets, tout en me spécialisant progressivement dans le **développement mobile, cloud, logiciel et intélligence artificielle**.  
 
 ---
 
